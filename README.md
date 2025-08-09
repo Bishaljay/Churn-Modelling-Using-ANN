@@ -81,5 +81,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 ## 📜 License
 
 This project is for educational purposes.
-
-```
