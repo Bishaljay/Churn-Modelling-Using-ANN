@@ -1,6 +1,7 @@
 # Churn Modelling Using ANN
 
-This project implements an **Artificial Neural Network (ANN)** to predict customer churn based on various demographic, geographic, and account-related factors.  
+This project implements an **Artificial Neural Network (ANN)** to predict customer churn based on various demographic, geographic, and account-related factors. 
+
 The goal is to classify whether a customer will **leave (churn)** or **stay** with the service provider.
 
 ---
